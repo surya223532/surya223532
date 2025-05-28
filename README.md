@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **surya223532/surya223532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![hallo](img/surya_git.png)
