@@ -16,12 +16,7 @@
 #### My Github Stats
 
 <div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-
-
-<br clear="both">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /><br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=surya223532&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
