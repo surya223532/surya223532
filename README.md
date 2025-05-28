@@ -18,20 +18,11 @@
 #### My Github Stats
 
 <p align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=surya223532&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya223532&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" />
-      </td>
-      <td style="border: none;">
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=surya223532&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya223532&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </p>
+
 
 
 
