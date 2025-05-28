@@ -1,18 +1,3 @@
-<!--
-**surya223532/surya223532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![hallo](img/surya_git.png)
 
 ##### SKILS
@@ -27,4 +12,16 @@ Here are some ideas to get you started:
 
 #### My Github Stats
 
-![surya223532](https://github-readme-stats.vercel.app/api?username=surya223532&show_icons=true&theme=midnight-purple)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surya223532&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya223532&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surya223532/surya223532/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surya223532/surya223532/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/surya223532/surya223532/output/pacman-contribution-graph.svg">
+</picture>
+
+###
